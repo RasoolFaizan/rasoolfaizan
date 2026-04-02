@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Faizan Rasool</h1>
 <h3 align="center">Full Stack Website Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasoolfaizan&label=Profile%20views&color=0e75b6&style=flat" alt="rasoolfaizan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RasoolFaizan&label=Profile%20views&color=0e75b6&style=flat" alt="RasoolFaizan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasoolfaizan&theme=" alt="rasoolfaizan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RasoolFaizan&theme=gruvbox" alt="RasoolFaizan" /></a> </p>
 
 - 🔭 I’m currently working on [Itlefy ](https://itify.website/)
 - 👯 I’m looking to collaborate on [Hywiz Technology ](https://hywiz.com/)
@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I turn coffee ☕ into code 💻**
 
 <div> <a href="https://www.linkedin.com/in/Faizan Rasool" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/rasoolfaizan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/RasoolFaizan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/2dcodecraft" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:2dcodecraft07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
@@ -66,22 +66,22 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasoolfaizan&layout=compact&theme=tokyonight" alt=rasoolfaizan />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasoolFaizan&layout=compact&theme=merko" alt=RasoolFaizan />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rasoolfaizan&show_icons=true&locale=en&theme=radical" alt="rasoolfaizan" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RasoolFaizan&show_icons=true&locale=en&theme=highcontrast" alt="RasoolFaizan" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rasoolfaizan&theme=highcontrast" alt="rasoolfaizan" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RasoolFaizan&theme=highcontrast" alt="RasoolFaizan" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/rasoolfaizan">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rasoolfaizan&theme=chartreuse_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rasoolfaizan&theme=bear" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasoolfaizan&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rasoolfaizan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasoolfaizan&theme=2077" height="180em" />
+<a href="https://github.com/RasoolFaizan">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasoolFaizan&theme=chartreuse_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RasoolFaizan&theme=bear" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RasoolFaizan&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RasoolFaizan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RasoolFaizan&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rasoolfaizan&theme=material"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RasoolFaizan&theme=material"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
